@@ -1,0 +1,20 @@
+# Ignorar archivos de error, salida y logs
+**/*.err
+**/*.out
+**/*.log
+
+# Ignorar archivos y carpetas de R y RStudio
+*.Rproj
+.Rproj.user/
+.RData
+.Rhistory
+.RDataTmp
+*.pdf
+
+# Ignorar carpetas específicas
+de_prueba/
+
+# Ignorar directorios de caché
+**/__pycache__/
+**/.cache/
+

@@ -1,0 +1,265 @@
+CODPTORE,SEXO,gredad,6 Mar.2020 - 5 Mar. 2021,6 Mar.2021 - 5 Mar. 2022,Tipo
+Amazonas,Hombres,Menores de 15 años,-0.41653020301007443,-0.34624377975998816,Incremento
+Amazonas,Hombres,De 15 a 44 años,0.39857565144001145,0.8472493702835557,Incremento
+Amazonas,Hombres,De 45 a 64 años,2.109731567504889,0.9489000462600033,Disminución
+Amazonas,Hombres,De 65 y más años,0.912501305840639,0.5129122082487181,Disminución
+Amazonas,Mujeres,Menores de 15 años,-0.08426444538775167,-0.14376045833961906,Disminución
+Amazonas,Mujeres,De 15 a 44 años,0.605113364240444,-0.1172253082222693,Disminución
+Amazonas,Mujeres,De 45 a 64 años,2.2234133127154223,1.1895156881886955,Disminución
+Amazonas,Mujeres,De 65 y más años,1.9677472680762917,0.08522417348268412,Disminución
+Antioquia,Hombres,Menores de 15 años,-0.2190354661317296,-0.05689117895079489,Incremento
+Antioquia,Hombres,De 15 a 44 años,0.4141910212617479,0.8046741067936412,Incremento
+Antioquia,Hombres,De 45 a 64 años,0.3977463956987612,0.844558957333683,Incremento
+Antioquia,Hombres,De 65 y más años,0.22729645747064228,0.34367626243000293,Incremento
+Antioquia,Mujeres,Menores de 15 años,0.0011890887661880369,0.32050316596107825,Incremento
+Antioquia,Mujeres,De 15 a 44 años,-0.24634122217564838,-0.024499395370542364,Incremento
+Antioquia,Mujeres,De 45 a 64 años,0.10195813147361582,0.4754969998213547,Incremento
+Antioquia,Mujeres,De 65 y más años,0.08049289978420779,0.25653314529084587,Incremento
+Arauca,Hombres,Menores de 15 años,-0.5633377502957636,-0.5278933866533339,Incremento
+Arauca,Hombres,De 15 a 44 años,0.26709570997767534,1.186010490365554,Incremento
+Arauca,Hombres,De 45 a 64 años,0.09518845734116142,0.5510053241049113,Incremento
+Arauca,Hombres,De 65 y más años,-0.007953054131068716,-0.0033789170269841605,Incremento
+Arauca,Mujeres,Menores de 15 años,-0.20060137619021898,-0.49695428083446425,Disminución
+Arauca,Mujeres,De 15 a 44 años,-0.18436040635589057,-0.07151459390662247,Incremento
+Arauca,Mujeres,De 45 a 64 años,0.14597306524506642,0.5526829103545311,Incremento
+Arauca,Mujeres,De 65 y más años,0.14170229846855492,0.2178181375405456,Incremento
+Archipiélago de San Andrés,Hombres,Menores de 15 años,-0.4852671030743887,0.07698111696880704,Incremento
+Archipiélago de San Andrés,Hombres,De 15 a 44 años,1.8371984793948688,1.913129245464423,Incremento
+Archipiélago de San Andrés,Hombres,De 45 a 64 años,0.3407806923781287,0.38032627922539936,Incremento
+Archipiélago de San Andrés,Hombres,De 65 y más años,0.2981443029047415,0.40667538935375225,Incremento
+Archipiélago de San Andrés,Mujeres,Menores de 15 años,1.1874835930100935,-0.3523054443442236,Disminución
+Archipiélago de San Andrés,Mujeres,De 15 a 44 años,-0.060335218924588395,0.06497938642074431,Incremento
+Archipiélago de San Andrés,Mujeres,De 45 a 64 años,-0.41535262708743115,0.43757896355966214,Incremento
+Archipiélago de San Andrés,Mujeres,De 65 y más años,-0.16735585466518538,0.3706009812660182,Incremento
+Atlántico,Hombres,Menores de 15 años,0.26223651628455147,0.14159774610108689,Disminución
+Atlántico,Hombres,De 15 a 44 años,0.18257824652788865,0.40942528771968856,Incremento
+Atlántico,Hombres,De 45 a 64 años,0.6564468754357726,0.9432821379293319,Incremento
+Atlántico,Hombres,De 65 y más años,0.38777265990970533,0.44504494903668307,Incremento
+Atlántico,Mujeres,Menores de 15 años,0.645539705194774,0.8850372267566806,Incremento
+Atlántico,Mujeres,De 15 a 44 años,-0.1177017282280338,0.03242728468367018,Incremento
+Atlántico,Mujeres,De 45 a 64 años,0.45936449770528537,0.8848030113700873,Incremento
+Atlántico,Mujeres,De 65 y más años,0.30905443723084136,0.4522632981514763,Incremento
+"Bogotá, D.C.",Hombres,Menores de 15 años,0.07276584780569328,0.2060062816422232,Incremento
+"Bogotá, D.C.",Hombres,De 15 a 44 años,-0.08565759639201437,0.12093843897628495,Incremento
+"Bogotá, D.C.",Hombres,De 45 a 64 años,0.7162536458190325,0.9223691575502724,Incremento
+"Bogotá, D.C.",Hombres,De 65 y más años,0.5918095773462718,0.5054404331299241,Disminución
+"Bogotá, D.C.",Mujeres,Menores de 15 años,0.6482293657090247,0.7478481380027695,Incremento
+"Bogotá, D.C.",Mujeres,De 15 a 44 años,-0.29228143508965565,-0.18969110895109814,Incremento
+"Bogotá, D.C.",Mujeres,De 45 a 64 años,0.19574900689242758,0.47817814431643046,Incremento
+"Bogotá, D.C.",Mujeres,De 65 y más años,0.21151435318670253,0.21930267708577997,Incremento
+Bolívar,Hombres,Menores de 15 años,-0.1700767289764019,0.021959212402867297,Incremento
+Bolívar,Hombres,De 15 a 44 años,0.2748910087879982,0.42283845685642585,Incremento
+Bolívar,Hombres,De 45 a 64 años,0.6262804722541608,0.6775794385585603,Incremento
+Bolívar,Hombres,De 65 y más años,0.3373054815925988,0.2322371151790102,Disminución
+Bolívar,Mujeres,Menores de 15 años,0.2440509109034396,0.5525697077019326,Incremento
+Bolívar,Mujeres,De 15 a 44 años,-0.11654337910420229,-0.03285905897415743,Incremento
+Bolívar,Mujeres,De 45 a 64 años,0.7181895559012131,0.81045306460803,Incremento
+Bolívar,Mujeres,De 65 y más años,0.5671609757813552,0.5356961548509993,Disminución
+Boyacá,Hombres,Menores de 15 años,-0.2330205884144251,-0.20837478543197682,Incremento
+Boyacá,Hombres,De 15 a 44 años,0.49248382209291375,0.9586206354538757,Incremento
+Boyacá,Hombres,De 45 a 64 años,0.6655911765507051,1.036906035193597,Incremento
+Boyacá,Hombres,De 65 y más años,0.12371788319240185,0.18722177648034022,Incremento
+Boyacá,Mujeres,Menores de 15 años,0.05748049411931631,0.22945912155767015,Incremento
+Boyacá,Mujeres,De 15 a 44 años,-0.16186564537036935,0.27112921045815264,Incremento
+Boyacá,Mujeres,De 45 a 64 años,0.30436268975964237,0.7316306799167279,Incremento
+Boyacá,Mujeres,De 65 y más años,0.204721955852878,0.2584051149249686,Incremento
+Caldas,Hombres,Menores de 15 años,-0.04250930274757858,0.4275678333807632,Incremento
+Caldas,Hombres,De 15 a 44 años,0.6280764656946775,1.2263111200139842,Incremento
+Caldas,Hombres,De 45 a 64 años,0.5262953864160602,1.0009536597648365,Incremento
+Caldas,Hombres,De 65 y más años,0.1494464466771951,0.2261746052775584,Incremento
+Caldas,Mujeres,Menores de 15 años,0.238376945269294,0.5302244769253295,Incremento
+Caldas,Mujeres,De 15 a 44 años,-0.1843688913812496,0.3008082047907616,Incremento
+Caldas,Mujeres,De 45 a 64 años,0.22458703526071674,0.5875002525244806,Incremento
+Caldas,Mujeres,De 65 y más años,0.048501901774568534,0.19555734674232658,Incremento
+Caquetá,Hombres,Menores de 15 años,-0.4219628885959167,-0.4081407728735567,Incremento
+Caquetá,Hombres,De 15 a 44 años,0.2921282276316061,0.42545559600200256,Incremento
+Caquetá,Hombres,De 45 a 64 años,1.0727619067138374,0.8970016429800975,Disminución
+Caquetá,Hombres,De 65 y más años,0.5696357699193674,0.5250480012923796,Disminución
+Caquetá,Mujeres,Menores de 15 años,-0.584546179019484,-0.6057198199300038,Disminución
+Caquetá,Mujeres,De 15 a 44 años,-0.25246706388402296,-0.09535358170623152,Incremento
+Caquetá,Mujeres,De 45 a 64 años,0.5565692803534407,0.5883361353008525,Incremento
+Caquetá,Mujeres,De 65 y más años,0.9146773664175251,0.7823618791391647,Disminución
+Casanare,Hombres,Menores de 15 años,-0.3730677134255318,-0.2346212208453609,Incremento
+Casanare,Hombres,De 15 a 44 años,0.24808128811332758,0.54691831809053,Incremento
+Casanare,Hombres,De 45 a 64 años,0.3702034996454514,0.8963821346440412,Incremento
+Casanare,Hombres,De 65 y más años,0.28841600582522203,0.5573128490184153,Incremento
+Casanare,Mujeres,Menores de 15 años,-0.15814253790594268,-0.12696769911163477,Incremento
+Casanare,Mujeres,De 15 a 44 años,-0.4030480032511285,0.1423924477155393,Incremento
+Casanare,Mujeres,De 45 a 64 años,0.25454964819091075,0.9005722613252611,Incremento
+Casanare,Mujeres,De 65 y más años,0.8086030203419797,0.9167335214591313,Incremento
+Cauca,Hombres,Menores de 15 años,-0.16777484047528415,0.04839521639202556,Incremento
+Cauca,Hombres,De 15 a 44 años,1.265655811653777,1.5969002776324803,Incremento
+Cauca,Hombres,De 45 a 64 años,0.5670093076228568,0.6226445853945737,Incremento
+Cauca,Hombres,De 65 y más años,0.12783131156176927,0.20136933130984455,Incremento
+Cauca,Mujeres,Menores de 15 años,0.06118460256564911,0.6003178402833613,Incremento
+Cauca,Mujeres,De 15 a 44 años,-0.08578616647256967,0.08214509573350705,Incremento
+Cauca,Mujeres,De 45 a 64 años,0.47339175467266575,0.6483866623069409,Incremento
+Cauca,Mujeres,De 65 y más años,0.28453462177756256,0.47408383808998655,Incremento
+Cesar,Hombres,Menores de 15 años,-0.32909140011004545,-0.27381295668785466,Incremento
+Cesar,Hombres,De 15 a 44 años,0.008284908269952049,0.2907872721587173,Incremento
+Cesar,Hombres,De 45 a 64 años,0.6083696247688004,0.8273552760075562,Incremento
+Cesar,Hombres,De 65 y más años,0.33044760862054917,0.3906701574634239,Incremento
+Cesar,Mujeres,Menores de 15 años,0.014051185297405271,-0.08832894154230876,Disminución
+Cesar,Mujeres,De 15 a 44 años,-0.23050056337730243,-0.09389138497918825,Incremento
+Cesar,Mujeres,De 45 a 64 años,0.5564751201802998,0.844562631530513,Incremento
+Cesar,Mujeres,De 65 y más años,0.5105230857413551,0.6121422783519774,Incremento
+Chocó,Hombres,Menores de 15 años,-5.740329140822918e-4,0.30606870648450407,Incremento
+Chocó,Hombres,De 15 a 44 años,1.193109932938977,1.5060996288957131,Incremento
+Chocó,Hombres,De 45 a 64 años,0.7907918697094986,0.861594432139764,Incremento
+Chocó,Hombres,De 65 y más años,0.04427690300140097,0.11075310706220452,Incremento
+Chocó,Mujeres,Menores de 15 años,0.45659183420222493,1.3940356880010853,Incremento
+Chocó,Mujeres,De 15 a 44 años,0.027379015456437665,0.18532313137768908,Incremento
+Chocó,Mujeres,De 45 a 64 años,0.4175777870786206,1.1231107760761219,Incremento
+Chocó,Mujeres,De 65 y más años,0.5007036151454072,0.4449973828940097,Disminución
+Córdoba,Hombres,Menores de 15 años,0.1644987292514451,0.44619720492369835,Incremento
+Córdoba,Hombres,De 15 a 44 años,0.5513832845449321,0.9071839213786231,Incremento
+Córdoba,Hombres,De 45 a 64 años,0.6786701757659231,0.8147777959933703,Incremento
+Córdoba,Hombres,De 65 y más años,0.3273779308190451,0.1912862820327449,Disminución
+Córdoba,Mujeres,Menores de 15 años,0.4808083637528829,0.8433940576802419,Incremento
+Córdoba,Mujeres,De 15 a 44 años,0.26136615482782366,0.2623747971874234,Incremento
+Córdoba,Mujeres,De 45 a 64 años,0.9475705798909838,1.0965912624698242,Incremento
+Córdoba,Mujeres,De 65 y más años,0.5595397754683168,0.5758677518587516,Incremento
+Cundinamarca,Hombres,Menores de 15 años,-0.4341923149196479,-0.44768676712227196,Disminución
+Cundinamarca,Hombres,De 15 a 44 años,0.055107290387766815,0.381251401306488,Incremento
+Cundinamarca,Hombres,De 45 a 64 años,0.38683908740043155,0.7091290707480954,Incremento
+Cundinamarca,Hombres,De 65 y más años,0.20335207891759263,0.22478848885306038,Incremento
+Cundinamarca,Mujeres,Menores de 15 años,-0.25404739248657654,-0.2338217823479915,Incremento
+Cundinamarca,Mujeres,De 15 a 44 años,-0.3720484448433186,-0.17301822590009241,Incremento
+Cundinamarca,Mujeres,De 45 a 64 años,0.04818062266111613,0.40708362751459587,Incremento
+Cundinamarca,Mujeres,De 65 y más años,0.3231097093755792,0.3461267990577447,Incremento
+Guainía,Hombres,Menores de 15 años,-0.2624129289219882,-0.058728545832649345,Incremento
+Guainía,Hombres,De 15 a 44 años,0.07698445870700941,0.45459081658784356,Incremento
+Guainía,Hombres,De 45 a 64 años,1.5654460197004563,0.9849245344224413,Disminución
+Guainía,Hombres,De 65 y más años,0.6823518441973285,0.5737211101957258,Disminución
+Guainía,Mujeres,Menores de 15 años,-0.27693582048104615,1.026873049324956,Incremento
+Guainía,Mujeres,De 15 a 44 años,0.6354717383070683,0.726738941331115,Incremento
+Guainía,Mujeres,De 45 a 64 años,1.2582764670750815,0.9638525891234475,Disminución
+Guainía,Mujeres,De 65 y más años,1.527947879132541,1.480486212692876,Disminución
+Guaviare,Hombres,Menores de 15 años,-0.6130344197863202,-0.49166510944694297,Incremento
+Guaviare,Hombres,De 15 a 44 años,0.21546283693495122,0.3263424293519952,Incremento
+Guaviare,Hombres,De 45 a 64 años,0.6126496839674944,0.9501787711219234,Incremento
+Guaviare,Hombres,De 65 y más años,0.26198703291847564,0.1983321252206037,Disminución
+Guaviare,Mujeres,Menores de 15 años,-0.49236258764004026,-0.5855307862382518,Disminución
+Guaviare,Mujeres,De 15 a 44 años,0.22174993904292453,0.08944770185029842,Disminución
+Guaviare,Mujeres,De 45 a 64 años,0.012464496395097046,0.710639371116987,Incremento
+Guaviare,Mujeres,De 65 y más años,0.9802959528073364,1.6696497000586246,Incremento
+Huila,Hombres,Menores de 15 años,-0.4730725517107517,-0.24670377534174562,Incremento
+Huila,Hombres,De 15 a 44 años,0.26514679055188434,0.5047179617571388,Incremento
+Huila,Hombres,De 45 a 64 años,0.6186440669105069,0.715583353456067,Incremento
+Huila,Hombres,De 65 y más años,0.3040682838920179,0.35654750201896007,Incremento
+Huila,Mujeres,Menores de 15 años,-0.20658186451342656,-0.04544966823601356,Incremento
+Huila,Mujeres,De 15 a 44 años,-0.11335307689101375,0.11925248182801385,Incremento
+Huila,Mujeres,De 45 a 64 años,0.5815763817360585,0.7338380201748456,Incremento
+Huila,Mujeres,De 65 y más años,0.42160177184850756,0.5220531468109318,Incremento
+La Guajira,Hombres,Menores de 15 años,-0.12771720486913563,0.10617736365723263,Incremento
+La Guajira,Hombres,De 15 a 44 años,-0.037892302813492505,0.06847899379599119,Incremento
+La Guajira,Hombres,De 45 a 64 años,0.8581539669614094,1.025265161595383,Incremento
+La Guajira,Hombres,De 65 y más años,0.4607464556682148,0.5516940377719317,Incremento
+La Guajira,Mujeres,Menores de 15 años,0.38002525213243793,0.5354620375208428,Incremento
+La Guajira,Mujeres,De 15 a 44 años,-0.38993511021833815,-0.2702541534929496,Incremento
+La Guajira,Mujeres,De 45 a 64 años,0.46737613896841074,1.1601779576196585,Incremento
+La Guajira,Mujeres,De 65 y más años,0.4363562682536201,0.6914376855917153,Incremento
+Magdalena,Hombres,Menores de 15 años,-0.3364649764479139,-0.23044188492721177,Incremento
+Magdalena,Hombres,De 15 a 44 años,0.2427651520070268,0.492929851977282,Incremento
+Magdalena,Hombres,De 45 a 64 años,0.5673154388252607,0.8606423042229081,Incremento
+Magdalena,Hombres,De 65 y más años,0.29421649285533485,0.31380897689948584,Incremento
+Magdalena,Mujeres,Menores de 15 años,-0.043961252634003974,0.2379727438366185,Incremento
+Magdalena,Mujeres,De 15 a 44 años,0.01369257540523313,0.03204207368031905,Incremento
+Magdalena,Mujeres,De 45 a 64 años,0.6293070199459861,0.9701409831436002,Incremento
+Magdalena,Mujeres,De 65 y más años,0.5929358660991152,0.7477210729314512,Incremento
+Meta,Hombres,Menores de 15 años,-0.23655543341024457,-0.2092385092509335,Incremento
+Meta,Hombres,De 15 a 44 años,0.17315261956583625,0.3383648952317182,Incremento
+Meta,Hombres,De 45 a 64 años,0.3788827975835083,0.6488070106682604,Incremento
+Meta,Hombres,De 65 y más años,0.20470922090232643,0.3006707816218068,Incremento
+Meta,Mujeres,Menores de 15 años,0.10534086340926115,0.20375053594629242,Incremento
+Meta,Mujeres,De 15 a 44 años,-0.2300971215767783,-0.02631498701271215,Incremento
+Meta,Mujeres,De 45 a 64 años,0.22713567526424328,0.6998349537433617,Incremento
+Meta,Mujeres,De 65 y más años,0.37189022988775333,0.47734769825431944,Incremento
+Nariño,Hombres,Menores de 15 años,0.144536440608301,0.07829985739249733,Disminución
+Nariño,Hombres,De 15 a 44 años,1.0437647037567364,1.1634245372052678,Incremento
+Nariño,Hombres,De 45 a 64 años,0.7197820453489326,0.8531361834670043,Incremento
+Nariño,Hombres,De 65 y más años,0.20338597197766414,0.15060149033967207,Disminución
+Nariño,Mujeres,Menores de 15 años,0.4506860304566437,0.3982547007234173,Disminución
+Nariño,Mujeres,De 15 a 44 años,0.025961193898757003,0.31134909088622814,Incremento
+Nariño,Mujeres,De 45 a 64 años,0.566700780603522,0.7474924714565715,Incremento
+Nariño,Mujeres,De 65 y más años,0.26246054217510006,0.32109258612058805,Incremento
+Norte de Santander,Hombres,Menores de 15 años,-0.41006233578056284,-0.16660953910308596,Incremento
+Norte de Santander,Hombres,De 15 a 44 años,0.48743015140935514,0.5811694024877266,Incremento
+Norte de Santander,Hombres,De 45 a 64 años,0.8753357661453786,0.7028733940630706,Disminución
+Norte de Santander,Hombres,De 65 y más años,0.2519911777954913,0.1538074832612192,Disminución
+Norte de Santander,Mujeres,Menores de 15 años,-0.06539673133335215,0.24030160387908422,Incremento
+Norte de Santander,Mujeres,De 15 a 44 años,-0.19033953461473432,-0.19098883194319372,Disminución
+Norte de Santander,Mujeres,De 45 a 64 años,0.51971911508747215,0.5429737096865654,Incremento
+Norte de Santander,Mujeres,De 65 y más años,0.2105665800539776,0.17322007279583787,Disminución
+Putumayo,Hombres,Menores de 15 años,-0.3853816519308715,-0.06285584470795808,Incremento
+Putumayo,Hombres,De 15 a 44 años,0.855605216972696,1.5459464793133124,Incremento
+Putumayo,Hombres,De 45 a 64 años,0.9227245972545636,1.1955078343015857,Incremento
+Putumayo,Hombres,De 65 y más años,0.2875172576783124,0.30558078417526346,Incremento
+Putumayo,Mujeres,Menores de 15 años,-0.27000411920791584,-0.11644464768380883,Incremento
+Putumayo,Mujeres,De 15 a 44 años,0.008404959520915592,0.03954660497660093,Incremento
+Putumayo,Mujeres,De 45 a 64 años,0.26586258793144907,0.7639846465532284,Incremento
+Putumayo,Mujeres,De 65 y más años,0.7168903009761316,0.7345290756812737,Incremento
+Quindio,Hombres,Menores de 15 años,0.04377613341854684,0.027827000789925647,Disminución
+Quindio,Hombres,De 15 a 44 años,1.10691898975642,1.6758130074928366,Incremento
+Quindio,Hombres,De 45 a 64 años,0.8326246382849215,1.2036227491249418,Incremento
+Quindio,Hombres,De 65 y más años,0.19323855855865696,0.19321796326154966,Disminución
+Quindio,Mujeres,Menores de 15 años,0.6177812918872815,0.6884893492519056,Incremento
+Quindio,Mujeres,De 15 a 44 años,0.08987537391646892,0.5030320030669595,Incremento
+Quindio,Mujeres,De 45 a 64 años,0.31481863917163316,0.6076298048692849,Incremento
+Quindio,Mujeres,De 65 y más años,0.04233256636791768,0.1914133283439869,Incremento
+Risaralda,Hombres,Menores de 15 años,0.3983693293601816,0.20418406717082974,Disminución
+Risaralda,Hombres,De 15 a 44 años,0.6124327150930681,1.0240438077627652,Incremento
+Risaralda,Hombres,De 45 a 64 años,0.8105788345047212,1.0962075377148268,Incremento
+Risaralda,Hombres,De 65 y más años,0.21149090358771472,0.20419123742241782,Disminución
+Risaralda,Mujeres,Menores de 15 años,0.6354141311802959,1.2743315747061181,Incremento
+Risaralda,Mujeres,De 15 a 44 años,0.12112187122535291,0.32495753219434237,Incremento
+Risaralda,Mujeres,De 45 a 64 años,0.3909288495663971,0.7490944684114552,Incremento
+Risaralda,Mujeres,De 65 y más años,0.003138130344044307,0.16391917143161028,Incremento
+Santander,Hombres,Menores de 15 años,-0.0019449655217898404,0.05691265673639348,Incremento
+Santander,Hombres,De 15 a 44 años,0.2507655387523122,0.7956564909594807,Incremento
+Santander,Hombres,De 45 a 64 años,0.737721231242444,1.1778048335947127,Incremento
+Santander,Hombres,De 65 y más años,0.2974503210811312,0.346887568941986,Incremento
+Santander,Mujeres,Menores de 15 años,0.25885145863381065,0.45914862706273035,Incremento
+Santander,Mujeres,De 15 a 44 años,-0.1031716134194418,0.227907219406193,Incremento
+Santander,Mujeres,De 45 a 64 años,0.357130667706097,0.7223477748078697,Incremento
+Santander,Mujeres,De 65 y más años,0.15617438905178896,0.2884184997029504,Incremento
+Sucre,Hombres,Menores de 15 años,-0.12006793106489821,0.21341424840213247,Incremento
+Sucre,Hombres,De 15 a 44 años,0.22632203555562003,0.43684101164113714,Incremento
+Sucre,Hombres,De 45 a 64 años,0.43974699727606886,0.6358315442344735,Incremento
+Sucre,Hombres,De 65 y más años,0.1884481946674832,0.19652966821894152,Incremento
+Sucre,Mujeres,Menores de 15 años,-0.062238330812842475,0.40608379942141437,Incremento
+Sucre,Mujeres,De 15 a 44 años,6.971544113640395e-4,0.06524874204159782,Incremento
+Sucre,Mujeres,De 45 a 64 años,0.54581520352551,0.9334064601406392,Incremento
+Sucre,Mujeres,De 65 y más años,0.4656427142242867,0.5653480626550957,Incremento
+Tolima,Hombres,Menores de 15 años,0.08521218071208946,0.10558959788864636,Incremento
+Tolima,Hombres,De 15 a 44 años,0.668667131197809,1.2905598224326407,Incremento
+Tolima,Hombres,De 45 a 64 años,0.7704980612095044,0.9625489089848334,Incremento
+Tolima,Hombres,De 65 y más años,0.20785568106798152,0.18885780159648768,Disminución
+Tolima,Mujeres,Menores de 15 años,0.38335242872328573,0.5397145044484845,Incremento
+Tolima,Mujeres,De 15 a 44 años,0.14748745362608773,0.4687551231110814,Incremento
+Tolima,Mujeres,De 45 a 64 años,0.5383358111349411,0.6991496411723739,Incremento
+Tolima,Mujeres,De 65 y más años,0.26676397845636807,0.332639254752467,Incremento
+Valle del Cauca,Hombres,Menores de 15 años,-0.20741669543672508,-0.16123176024934635,Incremento
+Valle del Cauca,Hombres,De 15 a 44 años,1.1985665442885995,1.7394344437545188,Incremento
+Valle del Cauca,Hombres,De 45 a 64 años,0.7910913410446415,1.1366284169737613,Incremento
+Valle del Cauca,Hombres,De 65 y más años,0.24653433258674665,0.3393670177616538,Incremento
+Valle del Cauca,Mujeres,Menores de 15 años,0.06317875251201777,0.11317865271833194,Incremento
+Valle del Cauca,Mujeres,De 15 a 44 años,0.037235906209410224,0.30094674230836493,Incremento
+Valle del Cauca,Mujeres,De 45 a 64 años,0.31803940158513744,0.6105902821913994,Incremento
+Valle del Cauca,Mujeres,De 65 y más años,9.478726076401038e-4,0.14095401539505076,Incremento
+Vaupés,Hombres,Menores de 15 años,-0.73265791005243,-0.3265129819417495,Incremento
+Vaupés,Hombres,De 15 a 44 años,-0.03281646450157697,0.18840939058359174,Incremento
+Vaupés,Hombres,De 45 a 64 años,0.22523324621253998,0.31792743178007,Incremento
+Vaupés,Hombres,De 65 y más años,1.0574327769010214,0.3877878013561718,Disminución
+Vaupés,Mujeres,Menores de 15 años,-0.4382051434501928,0.4695257300997838,Incremento
+Vaupés,Mujeres,De 15 a 44 años,0.997150118305856,0.9835913759830279,Disminución
+Vaupés,Mujeres,De 45 a 64 años,0.6237560269225555,0.27430739691499206,Disminución
+Vaupés,Mujeres,De 65 y más años,0.979743228181257,0.9319987913221832,Disminución
+Vichada,Hombres,Menores de 15 años,-0.45124077044700617,-0.18420319176570188,Incremento
+Vichada,Hombres,De 15 a 44 años,-0.13929452387953542,-0.06014935117394508,Incremento
+Vichada,Hombres,De 45 a 64 años,0.4833023516744215,0.6437900011307338,Incremento
+Vichada,Hombres,De 65 y más años,0.15651233651668636,0.7353498184735523,Incremento
+Vichada,Mujeres,Menores de 15 años,0.3870177286947722,0.2800707810845484,Disminución
+Vichada,Mujeres,De 15 a 44 años,-0.033960880329420726,-0.17835263832772594,Disminución
+Vichada,Mujeres,De 45 a 64 años,0.7671362679312691,0.963967895600857,Incremento
+Vichada,Mujeres,De 65 y más años,0.9130597062778395,1.577055485926862,Incremento
